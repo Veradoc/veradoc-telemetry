@@ -2,7 +2,7 @@
 Veradoc Observability using Cloudflare Workers. We used this infraestructure because is free up to 100k requests/day, using a KV (Key/Value Database) free up to 100k reads/day. For VeraDoc is enough for years.
 
 ## Create Worker
-We are going to create a Cloudflare Worker(like AWS lambda or Azure Functions) in Cloudflare to serve a simple telemetry endpoint used by Veradoc deployemnt web scripts to send info about deployment. Steps 
+We are going to create a Cloudflare Worker(like AWS lambda or Azure Functions) in Cloudflare to serve a simple telemetry endpoint used by Veradoc deployment web scripts to send info about deployment process
 
 ## STEPS to deploy Observability infrastructure in Cloudflare
 
