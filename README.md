@@ -166,7 +166,7 @@ To access your new KV Namespace in your Worker, add the following snippet to you
 ? For local dev, do you want to connect to the remote resource instead of a local resource?  <-- N
 ```
 
-![Cloudflare KV Database(./images/cloudflare_kv_worker.png"Cloudflare KV Database")
+![Cloudflare KV Database](./images/cloudflare_kv_worker.png"Cloudflare KV Database")
 
 Edit the the file `wrangler.jsonc` updated and check that the `kv_namespaces` argument where bind the KV Database with our worker called `veradoc-telemetry` exist.
 
